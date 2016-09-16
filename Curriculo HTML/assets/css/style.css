@@ -1,0 +1,111 @@
+/*CSS CURRICULO STYLE*/
+
+body {
+		background: url(../images/img1.jpg) no-repeat center center fixed;
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
+	}
+
+/*barras*/
+#header{
+	border-radius: 5px;
+	border: ;
+	z-index: 1;
+	position: fixed;
+	width: 98.9%;
+	margin-top: -15px;
+	height: 60px;
+	background-color: #F2F2F2;
+	margin-bottom: 10px;
+}
+.right{
+	border-radius: 5px;
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	height: 500px;
+	background-color: #F2F2F2;
+	margin-bottom: 10px;
+}
+.left{
+	border-radius: 5px;
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 158px;
+	height: 500px;
+	background-color: #F2F2F2;
+	margin-bottom: 10px;
+	margin-left: -1px;
+}
+#footer{
+	border-radius: 5px;
+	position: relative;
+	height: 50px;
+	background-color: #F2F2F2;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
+
+/*formatação de textos*/
+#name{
+	float:left;
+	margin-left:3px;
+	padding-top:1px;
+	font-size:30px;
+	font-family:Verdana, sans-serif;
+	color:#000000;
+}
+#email{
+	float:right;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding-top: -15px;
+	font-size: 18px;
+	font-family:Verdana, sans-serif;
+	color: #000000;
+}
+img{
+	width: 36px;
+	height: 36px;
+	margin-top: 1px;
+}
+#footer p {
+	position: relative;
+	padding-top: 8px;
+	color:#000000;
+	font-family: Arial;
+}
+.right h3{
+	font-family: Verdana;
+	font-size:20px;	
+	margin-top:5px;
+	margin-left: 5px;
+}
+.right p{
+	margin-left:15px;
+	font-family: Arial; 
+	margin-top:-15px;
+}
+.right ul li{
+	margin-left:10px;
+	font-family: Arial;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.right ul{
+	margin-top: -12px;
+	font-size:13px;
+	font-family: Arial;
+	margin-bottom: 20px;
+}
+.red{
+	color: red;
+	font-weight: bold;
+}
