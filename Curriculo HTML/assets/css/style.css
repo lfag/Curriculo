@@ -25,7 +25,7 @@ body {
 	position: relative;
 	float: right;
 	margin-top: 50px;
-	width: 100%;
+	width: 88%;
 	height: 500px;
 	background-color: #F2F2F2;
 	margin-bottom: 10px;
@@ -75,7 +75,6 @@ img{
 	width: 36px;
 	height: 36px;
 	margin-top: 1px;
-	float:right;
 }
 #footer p {
 	position: relative;
